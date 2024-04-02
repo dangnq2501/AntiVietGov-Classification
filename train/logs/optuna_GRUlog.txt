@@ -1,0 +1,11 @@
+(base) (base) [k64t@netips ~]$ python /home/k64t/person-reid/demo_log/MiscStuff/btl_datamining/cod
+e/finetune-overnight.py > /home/k64t/person-reid/demo_log/MiscStuff/btl_datamining/code/result/fin
+etune.txt
+/home/k64t/_conda/anaconda3/lib/python3.9/site-packages/torch/nn/modules/lazy.py:178: UserWarning:
+[I 2024-03-29 07:18:19,329] Trial 0 finished with value: 1.0 and parameters: {'n_epochs': 47, 'lr': 0.006882426566337443, 'hidden_size': 41, 'num_layer': 5, 'bidirectional': False, 'optimizer_string': 'AdamW'}. Best is trial 0 with value: 1.0.
+/home/k64t/_conda/anaconda3/lib/python3.9/site-packages/torch/nn/modules/lazy.py:178: UserWarning: Lazy modules are a new feature under heavy development so changes to the API or functionality can happen at any moment.
+  warnings.warn('Lazy modules are a new feature under heavy development '
+[I 2024-03-29 07:22:53,404] Trial 1 finished with value: 0.3918918918918919 and parameters: {'n_epochs': 39, 'lr': 0.001882317006399019, 'hidden_size': 482, 'num_layer': 2, 'bidirectional': False, 'optimizer_string': 'AdamW'}. Best is trial 1 with value: 0.3918918918918919.
+/home/k64t/_conda/anaconda3/lib/python3.9/site-packages/torch/nn/modules/lazy.py:178: UserWarning: Lazy modules are a new feature under heavy development so changes to the API or functionality can happen at any moment.
+  warnings.warn('Lazy modules are a new feature under heavy development '
+[I 2024-03-29 07:40:55,646] Trial 2 finished with value: 1.0 and parameters: {'n_epochs': 43, 'lr': 0.005240933012276123, 'hidden_size': 277, 'num_layer': 7, 'bidirectional': True, 'optimizer_string': 'AdamW'}. Best is trial 1 with value: 0.3918918918918919.

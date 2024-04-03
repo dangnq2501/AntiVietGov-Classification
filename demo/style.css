@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@400&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Inknut Antiqua', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #091747;
+}
+
+.inknut-text {
+    font-family: 'Inknut Antiqua', sans-serif;
+    color: #CC0000;
+}
+
+.margin-heading {
+    margin-top: 30px;
+    margin-bottom: -10px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+    align-items: center;
+    font-size: 15px;
+    gap: 30px;
+    justify-content: center;
+    font-family: 'Inknut Antiqua', sans-serif;
+}

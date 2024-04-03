@@ -1,7 +1,4 @@
 ![screenshot](./demo/resource/logo3.png)
-<h1 align="center" style="color: red">
-  Anti-Vietnamese Government post Classification
-</h1>
 
 This repository contains code for a rebellious post classifier, a machine learning model designed to classify posts into different categories based on their toxicity levels. The classifier can be used to automatically detect and filter out rebellious posts, helping to create safer online communities.
 

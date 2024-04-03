@@ -29,11 +29,7 @@ The rebellious post classifier requires the following dependencies:
 
 
 ## Meet the Team
-
-### Nguyễn Quý Đang 22022500
-
-### Nguyễn Nhật Minh 22022503
-
-### Đỗ Minh Nhật 22022537
-
-### Vũ Vân Long 22022501
+- Nguyễn Quý Đang 22022500
+- Nguyễn Nhật Minh 22022503
+- Đỗ Minh Nhật 22022537
+- Vũ Vân Long 22022501

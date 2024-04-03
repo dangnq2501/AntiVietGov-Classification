@@ -19,17 +19,18 @@ The rebellious post classifier requires the following dependencies:
 * Custom layout
   - With this feature, users cantailor their dashboard experience according to their unique preferences and priorities.
 * Data Statistics
-  - When users record their upcoming tasks, the virtual assistant will automatically distribute the user's tasks into sections according to the P.A.R.A structure.
+  - Users can use the sidebar to plot any type of charts to visualize data statistics.
 * Demo of the best GRU Model with an Input
-  - By using users' personal data, the assistant can provide useful recommendations for users.
-  - Exercises recommendations: Providing user with manys work out that can be filtered to fit with user
-  - Diet recommendation: Check health of user according meal, workout frequency and give strategy and healthy recipes for user  
+  - Experience the power of our cutting-edge GRU (Gated Recurrent Unit) model firsthand with our interactive demo feature. Our GRU model is meticulously trained on vast datasets to provide accurate and insightful classifications, enabling users to gain valuable insights from their text inputs.
+  - After inputting their text, users simply press the "Predict" button, initiating our GRU model's classification process.
+  - The output includes not only the predicted classification (rebellious or not) but also a corresponding probability score, providing users with valuable insights into the model's confidence level.
 * 3D Visualization with T-SNE and PCA 
-  - The created feature acts as an effective assistant for users with the ability to give accurate answers and perform assigned tasks.
+  - Immerse yourself in an interactive 3D environment, where each data point is represented as a distinct marker in the visual space.
+  - Users can navigate freely through the visualization, zooming in on specific clusters or regions of interest for closer examination, examining each clusters.
 
 
 ## Meet the Team
-- Nguyễn Quý Đang 22022500
-- Nguyễn Nhật Minh 22022503
-- Đỗ Minh Nhật 22022537
-- Vũ Vân Long 22022501
+- Nguyễn Quý Đang - 22022500 - UET
+- Nguyễn Nhật Minh - 22022503 - UET
+- Đỗ Minh Nhật - 22022537 - UET
+- Vũ Vân Long - 22022501 - UET

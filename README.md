@@ -29,7 +29,7 @@ The rebellious post classifier requires the following dependencies:
 * 3D Visualization with T-SNE and PCA 
   - Immerse yourself in an interactive 3D environment, where each data point is represented as a distinct marker in the visual space.
   - Users can navigate freely through the visualization, zooming in on specific clusters or regions of interest for closer examination, examining each clusters.
-  ![3D Visualization](./demo/resource/datastats.gif)
+  ![3D Visualization](./demo/resource/3dvis.gif)
 
 
 ## Meet the Team

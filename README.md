@@ -25,7 +25,7 @@ The rebellious post classifier requires the following dependencies:
   - Experience the power of our cutting-edge GRU (Gated Recurrent Unit) model firsthand with our interactive demo feature. Our GRU model is meticulously trained on vast datasets to provide accurate and insightful classifications, enabling users to gain valuable insights from their text inputs.
   - After inputting their text, users simply press the "Predict" button, initiating our GRU model's classification process.
   - The output includes not only the predicted classification (rebellious or not) but also a corresponding probability score, providing users with valuable insights into the model's confidence level.
-  ![Test Input](./demo/resource/datastats.gif)
+  ![Test Input](./demo/resource/testinput.gif)
 * 3D Visualization with T-SNE and PCA 
   - Immerse yourself in an interactive 3D environment, where each data point is represented as a distinct marker in the visual space.
   - Users can navigate freely through the visualization, zooming in on specific clusters or regions of interest for closer examination, examining each clusters.

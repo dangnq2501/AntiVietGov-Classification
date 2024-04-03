@@ -3,7 +3,8 @@
 
 ## Overview
 The rebellious post classifier is built using deep learning techniques, specifically recurrent neural network (RNN) architectures such as GRU (Gated Recurrent Unit) and LSTM (Long Short-Term Memory). It takes as input text content, and predicts the rebellious level of the post. The classifier can identify whether posts are rebellious or not.
-<br>
+<br></br>
+<br></br>
 This repository contains code for a rebellious post classifier, a machine learning model designed to classify posts into different categories based on their toxicity levels. The classifier can be used to automatically detect and filter out rebellious posts, helping to create safer online communities.
 
 ## Dependencies

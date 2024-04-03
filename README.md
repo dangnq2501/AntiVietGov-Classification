@@ -14,7 +14,7 @@ The rebellious post classifier requires the following dependencies:
 - Pandas
 - Torch
 - NLTK (Natural Language Toolkit)
-- Streamlist
+- Streamlit
 
 ## Meet the Team
 
